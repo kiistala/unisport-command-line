@@ -32,5 +32,9 @@ Make sure your credentials work:
 
 Make a reservation:
 
-    ...
+    python make-reservation.py 207094658
+
+Cancel a reservation:
+
+    python make-reservation.py 207094658
 
