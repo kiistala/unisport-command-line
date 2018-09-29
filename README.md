@@ -36,5 +36,5 @@ Make a reservation:
 
 Cancel a reservation:
 
-    python make-reservation.py 207094658
+    python cancel-reservation.py 207094658
 
