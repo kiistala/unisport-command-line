@@ -32,7 +32,7 @@ Make sure your credentials work:
 
 Make a reservation:
 
-    python make-reservation.py 207094658
+    python make-reservation.py 206607525
 
 Cancel a reservation:
 
