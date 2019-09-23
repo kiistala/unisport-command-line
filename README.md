@@ -20,11 +20,16 @@ Create a cookie jar file:
 
     echo '#LWP-Cookies-2.0' >  $HOME/.cookies.unisport
 
-# Usage
+# Usage, read-only
 
 Read available events, e.g. futsal (no authentication needed):
 
     ./get-events-json.sh 826539 | jq
+
+# Usage, authenticated
+
+Note: These scripts are not yest fixed to work with the new API (2019-09-23)
+
 
 Make sure your credentials work:
 
